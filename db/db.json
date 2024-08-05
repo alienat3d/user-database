@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "Al T.",
+      "email": "psy.alienated@gmail.com",
+      "children": true,
+      "permissions": true,
+      "id": "0"
+    },
+    {
+      "id": "1",
+      "name": "Andrey",
+      "email": "antr0y@yahoo.com",
+      "children": true,
+      "permissions": false
+    },
+    {
+      "name": "Katerina",
+      "email": "ketie@aloha.com",
+      "children": true,
+      "permissions": true,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Bill",
+      "email": "bill.gates@microsoft.com",
+      "children": false,
+      "permissions": false
+    },
+    {
+      "name": "Sebastian",
+      "email": "seba777@hotmail.com",
+      "children": true,
+      "permissions": true,
+      "id": "b958"
+    },
+    {
+      "name": "Sofia",
+      "email": "sonechka@mail.ru",
+      "children": false,
+      "permissions": true,
+      "id": "66a9"
+    },
+    {
+      "name": "Jack Sparrow",
+      "email": "j.sparrow@piratebay.com",
+      "children": false,
+      "permissions": false,
+      "id": "HXuuDZC"
+    },
+    {
+      "name": "Boris Joneson",
+      "email": "b.jonson@gov.co.uk",
+      "children": true,
+      "permissions": false,
+      "id": "N0bqFl4"
+    },
+    {
+      "name": "Sandra Bullock",
+      "email": "bullock-s@hollywood.com",
+      "children": true,
+      "permissions": false,
+      "id": "UBTW0-K"
+    }
+  ]
+}
